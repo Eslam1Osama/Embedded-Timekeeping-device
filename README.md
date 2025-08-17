@@ -87,12 +87,7 @@ When an alarm is triggered, the buzzer will sound.
 
 ---
 
-## 🗺️ Roadmap
 
-Here are some potential features and improvements for future versions:
-
-* [ ] **Multiple Alarms:** Support for setting and managing several alarms.
-* [ ] **EEPROM Storage:** Save alarm settings so they persist after a power cycle or reset.
-* [ ] **12/24-Hour Mode:** Add an option to switch between time formats.
-* [ ] **Snooze Functionality:** Implement a snooze feature for alarms.
-* [ ] **Low-Power Mode:** Optimize code for battery-powered operation.
+## 📜 License
+This project is open-source and available under the **MIT License**.  
+Feel free to modify and improve it for your own projects!
